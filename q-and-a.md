@@ -10,7 +10,7 @@ a.	Why is evaluation necessary in the decision making process? (5)
 
 ### Answer
 
-The advantages of AI indisputably surpass its limitations. AI has emerged as a transformative force across industries, revolutionizing healthcare, enhancing productivity, and fostering innovation.
+The advantages of AI indisputably surpass its limitations. AI has emerged as a transformation force across industries, revolutionizing healthcare, enhancing productivity, and fostering innovation.
 
 In healthcare, AI facilitates early disease detection through advanced diagnostics, enabling more effective and personalized treatments. For example, machine learning algorithms analyze medical images swiftly and accurately, significantly improving patient outcomes.
 
@@ -24,16 +24,34 @@ Policies and regulations are being formulated to guide the ethical use of AI, en
 
 In conclusion, the myriad benefits of AI, from improved healthcare to increased efficiency across industries, outweigh its limitations. With continued innovation and responsible governance, AI holds the promise of a brighter, more advanced future for humanity.
 
-## Question 3. 
+## Question 3A. 
 
-a.	Describe the disadvantages to Natural Language Processing applications (15m)
+Describe the disadvantages (limitations) to Natural Language Processing (NPL) applications (15m)
+
+Certainly! Natural Language Processing (NLP) has revolutionized various fields, but it also comes with certain limitations:
+
+
+### Answer
+
+Ambiguity and Context: Language is highly context-dependent and can be ambiguous. NLP models often struggle with understanding nuances, idiomatic expressions, sarcasm, and context shifts, leading to misinterpretation.
+
+Data Limitations and Bias: NLP models heavily rely on large datasets, and biases present in the data can get amplified, resulting in biased predictions or outputs, affecting fairness and equity in applications.
+
+Lack of Common Sense Understanding: NLP models lack inherent common-sense knowledge, struggling with reasoning beyond the presented text. Understanding implicit information or making logical inferences is challenging.
+
+Computational Resources: Training large-scale NLP models requires substantial computational power and memory, making it expensive and inaccessible for many researchers or organizations.
+
 b.	Discuss potential solutions to the ethical considerations (10m)
+
+Privacy and Ethical Concerns: NLP deals with sensitive textual data, raising concerns about privacy, data security, and ethical use, especially in applications like sentiment analysis or text generation.
+
+
 
 4.	Describe data preprocessing steps with the use of a labelled diagram. Explain each step (25)
 
 5.	
 a.	Data preprocessing is a necessary part of data mining. Why? Justify your answer (15m)
-b.	What should an organisation take into consideration in the early stages of data preprocessing? Why is this a consideration? (10m)
+b.	What should an organization take into consideration in the early stages of data preprocessing? Why is this a consideration? (10m)
 
 6.	
 a.	What is the relationship between statistics and data analytics? (10m)
@@ -46,7 +64,7 @@ c.	Explain this equation (5m)
 
 8.	
 a.	Linearity is an assumption in linear regression. What is linearity and why is it important? (10m)
-b.	Multicolinearity is an assumption in linear regression. What is it and why is it important? (10m)
+b.	Multi-colinearity is an assumption in linear regression. What is it and why is it important? (10m)
 c.	Would you test to see if your model violates assumptions? Why? (5m)
 
 9.	Explain the CRISP-DM process with the use of a labelled diagram. (20m)
@@ -65,7 +83,7 @@ a.	Predictive accuracy (5m)
 b.	Speed (5m)
 c.	Robustness (5m)
 d.	Scalability (5m)
-e.	Interpretability (5m)
+e.	Interoperability (5m)
 
 12.	Describe a confusion matrix with the use of a labelled diagram. Describe how it is used. (25m)
 
