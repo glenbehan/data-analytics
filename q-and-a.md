@@ -77,3 +77,13 @@ b.	What is the initialization step and why is it important? (10m)
 
 15.	Is data mining using data scraped from social media an ethical concern? Discuss both sides of this argument and provide real-life examples in your answer (25m)
 
+## Extra Questions
+
+### Question
+Draw a ANN (Artificial Neral Network) and label and Explain the diagram.
+
+#### Answer
+
+![ann diagram](ann-diagram.png)
+
+The is a simple diagram to represent a ANN .  We have inputs (orange circles on the left) that pass there values to neurons via the synapse with attach a weight to the value.  THe ANN sums all the values of inputs * Weights and the result is the output , usually a value between 1 & 0  
