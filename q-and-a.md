@@ -86,4 +86,4 @@ Draw a ANN (Artificial Neral Network) and label and Explain the diagram.
 
 ![ann diagram](ann-diagram.png)
 
-The is a simple diagram to represent a ANN .  We have inputs (orange circles on the left) that pass there values to neurons via the synapse with attach a weight to the value.  THe ANN sums all the values of inputs * Weights and the result is the output , usually a value between 1 & 0  
+This diagram illustrates an Artificial Neural Network (ANN). The leftmost circles represent input nodes conveying data to interconnected neurons via weighted connections (edges). Within the network, these inputs are multiplied by respective weights, summed up along with a bias term, and processed by an activation function within each neuron. The resulting output, typically between 0 and 1, emerges from the network.
